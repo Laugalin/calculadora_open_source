@@ -13,7 +13,7 @@ Una calculadora simple en Python que permite realizar operaciones básicas como 
 1. Clona este repositorio:
 
 ```bash
-git clone https://github.com/tu_usuario/calculadora.git
+https://github.com/Laugalin/calculadora_open_source.git
 cd calculadora
 ```
 2. Ejecuta el programa principal:
